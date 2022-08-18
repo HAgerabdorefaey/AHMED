@@ -1,0 +1,14 @@
+.navbar{
+    border-bottom: 4px solid white;
+}
+.nav-link{
+    font-size: 1.2rem;
+}
+
+header{
+    min-height: 100vh;
+    background:linear-gradient(rgba(0,0,0,.7) ,rgba(0,0,0,.7) ) , 
+    url(../images/pexels-photo-6117417.jpeg);
+    background-position: center;
+    background-size: cover;
+}
